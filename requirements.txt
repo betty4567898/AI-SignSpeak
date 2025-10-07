@@ -1,0 +1,8 @@
+opencv-python
+pyttsx3
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+mediapipe
